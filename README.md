@@ -1,4 +1,4 @@
 # FirstRepository-demo
 This is my first Repository.
 <br>
-Author - Swaranjali Ravindra Morbale.
+Author - Swaranjali Ravindra M.
